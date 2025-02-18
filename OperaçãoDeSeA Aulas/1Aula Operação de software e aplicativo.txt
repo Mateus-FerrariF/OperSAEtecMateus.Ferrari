@@ -1,0 +1,46 @@
+Fundamento de Sistema Operacional 
+
+-----------------------------------------------------------------------------------
+
+Tipos de SO's:
+
+Servers: Servidor, oferece serviço (Ex: Windows Server, Linux Server)
+Desktop: Uso pessoal (PC) (Windows, Linux, MacOS)
+Tempo Real: Atua em tempo real
+
+------------------------------------------------------------------------------------
+
+Caracteristicas dos SO's:
+
+-Gerencia os recursos do hardware
+-Interface pro usuario
+-Executa aplicativos
+-Protege o dispositivo contra ataques
+
+-------------------------------------------------------------------------------------
+
+Funções Basicas dos SO's
+
+-Gerenciamento de Processos: Cria, exclui e suspende procesos
+-Gerencia memoria: aloca a memoria
+
+
+->>Gerenciamento de Arquivos: Criar arquivos, modificar
+  L-> Sistema de arquivos: estrutura hierarquica de arquivos (ex: NFTS, FAT32, APFTS)
+  L-> Diretórios (pastas): Usado para agrupar arquivos
+  L-> Permissões de arquivos: Controla quem pode modificar, acessar, ler e executar os arquivos
+
+
+-Gerenciamento de E/S: gerencia os perifericos
+-Gerenciamento de segurança: 
+-Gerenciamento de rede: permite que o computador se conecte com a rede e outros dispositivos
+
+
+Configurações dos SO's
+
+-Painel de controle:
+-Arquivo de configuração
+-
+
+-------------------------------------------------------------------------------------
+
